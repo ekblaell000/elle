@@ -4,7 +4,7 @@ The Caesar.py shifts a certain sentence that you give. Lets say you have a lette
 the letter in the word will shift to the letter D.
 ---
  
-///clear_text = input("type in your message")
+```clear_text = input("type in your message")
 clear_text = clear_text.lower()
 counter = 0
 shift = int(input("choose a shift value of 1-25"))    
