@@ -1,4 +1,4 @@
-#Code so Far
+# Code so Far
 ---
 The Caesar.py shifts a certain sentence that you give. Lets say you have a letter A and you pick a shift value of 3 then
 the letter in the word will shift to the letter D.
