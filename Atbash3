@@ -1,4 +1,9 @@
-
+#Atbash3
+---
+Atbash in Python3 replaces a certain message that you tybe by the certain letter given (not by shift value but letter in 
+sequence) so if I were to type the message HI it would come out as SR because where the letters are you find the other letter
+that corresponds with it.
+---
 print ("Welcome to the Atbash Cipher program")
 input("press enter to continue")
 
