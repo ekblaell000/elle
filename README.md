@@ -9,3 +9,6 @@
 [Atbash 3 ](https://github.com/ekblaell000/elle/blob/master/Atbash3)
 ---
 [intro.py](https://github.com/ekblaell000/elle/blob/master/Intro.py)
+---
+[People to know](https://github.com/ekblaell000/elle/blob/master/People%20to%20Know)
+---
