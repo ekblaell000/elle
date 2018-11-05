@@ -4,11 +4,11 @@
 ---
 # My Work
 ---
-[Work so Far](https://github.com/ekblaell000/elle/codesofar.md)
+[Work so Far](https://ekblaell000.github.io/elle/codesofar.md)
 ---
-[Atbash 3 ](https://github.com/ekblaell000/elle/Atbash3)
+[Atbash 3 ](https://ekblaell000.github.io/elle/Atbash3)
 ---
-[intro.py](https://github.com/ekblaell000/elle/Intro.py)
+[intro.py](https://ekblaell000.github.io/elle/Intro.py)
 ---
 [People to know](https://ekblaell000.github.io/elle/peopletoknow)
 ---
