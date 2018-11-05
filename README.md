@@ -8,7 +8,7 @@
 ---
 [Atbash 3 ](https://ekblaell000.github.io/elle/atbash3)
 ---
-[intro.py](https://ekblaell000.github.io/elle/intro)
+[intro](https://ekblaell000.github.io/elle/intro)
 ---
 [People to know](https://ekblaell000.github.io/elle/peopletoknow)
 ---
