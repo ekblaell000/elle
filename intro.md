@@ -1,5 +1,5 @@
 ---
-#intro.py
+# intro.py
 ---
 This assighnment lets me understand a basic way of coding. The code lets me put in information over cryptography each time
 the user hits enter, it lets them learn more about the topic, this was also used for our mini project.
