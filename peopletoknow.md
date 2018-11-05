@@ -1,4 +1,4 @@
-#People to Know
+# People to Know
 ---
 This assighnment was for us to write about certain people that had created or contributed to the work of coding computers
 This assighnment was important because it gave us a opportunity to understand how coding used to workd and how much 
