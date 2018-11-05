@@ -10,5 +10,5 @@
 ---
 [intro.py](https://github.com/ekblaell000/elle/Intro.py)
 ---
-[People to know](https://github.com/ekblaell000/elle/peopletoknow)
+[People to know](https://ekblaell000.github.io/elle/peopletoknow)
 ---
