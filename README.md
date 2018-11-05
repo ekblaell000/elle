@@ -4,7 +4,7 @@
 ---
 # My Work
 ---
-[Work so Far](https://ekblaell000.github.io/elle/codesofar.md)
+[Work so Far](https://ekblaell000.github.io/elle/codesofar)
 ---
 [Atbash 3 ](https://ekblaell000.github.io/elle/atbash3)
 ---
