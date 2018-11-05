@@ -6,7 +6,7 @@
 ---
 [Work so Far](https://ekblaell000.github.io/elle/codesofar.md)
 ---
-[Atbash 3 ](https://ekblaell000.github.io/elle/Atbash3)
+[Atbash 3 ](https://ekblaell000.github.io/elle/atbash3)
 ---
 [intro.py](https://ekblaell000.github.io/elle/intro)
 ---
